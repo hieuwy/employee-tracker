@@ -35,8 +35,3 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 [Link to Demo]()  
 
-## Screenshots
-
-![screenshot](https://github.com/hieuwy/employee-tracker/blob/main/assets/screenshot-1.jpg)  
-![screenshot](https://github.com/hieuwy/employee-tracker/blob/main/assets/screenshot-2.jpg)
-
